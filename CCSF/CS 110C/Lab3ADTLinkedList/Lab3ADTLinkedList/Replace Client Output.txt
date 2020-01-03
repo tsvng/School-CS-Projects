@@ -1,0 +1,15 @@
+Input a list of integers: 10 14 10 13 25 10
+Enter a value to be modified: 10
+Enter replacement value: 2
+Modified List: 2 14 2 13 25 2
+Number of items replaced: 3
+Would you like to modify another list (y/n)?: y
+
+Input a list of integers: 10 14 10 13 25 10
+Enter a value to be modified: 9
+Enter replacement value: 2
+Modified List: 10 14 10 13 25 10
+Number of items replaced: 0
+Would you like to modify another list (y/n)?: n
+
+Press any key to continue . . .

@@ -1,0 +1,20 @@
+﻿  a7_1.cpp
+c:\users\william\documents\visual studio 2015\projects\assignment7cstrings\assignment7cstrings\a7_1.cpp(44): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\william\documents\visual studio 2015\projects\assignment7cstrings\assignment7cstrings\a7_1.cpp(45): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\william\documents\visual studio 2015\projects\assignment7cstrings\assignment7cstrings\a7_1.cpp(52): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\william\documents\visual studio 2015\projects\assignment7cstrings\assignment7cstrings\a7_1.cpp(53): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\william\documents\visual studio 2015\projects\assignment7cstrings\assignment7cstrings\a7_1.cpp(60): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\william\documents\visual studio 2015\projects\assignment7cstrings\assignment7cstrings\a7_1.cpp(61): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\william\documents\visual studio 2015\projects\assignment7cstrings\assignment7cstrings\a7_1.cpp(68): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\william\documents\visual studio 2015\projects\assignment7cstrings\assignment7cstrings\a7_1.cpp(69): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\william\documents\visual studio 2015\projects\assignment7cstrings\assignment7cstrings\a7_1.cpp(108): warning C4018: '<': signed/unsigned mismatch
+c:\users\william\documents\visual studio 2015\projects\assignment7cstrings\assignment7cstrings\a7_1.cpp(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\william\documents\visual studio 2015\projects\assignment7cstrings\assignment7cstrings\a7_1.cpp(187): warning C4018: '<': signed/unsigned mismatch

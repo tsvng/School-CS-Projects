@@ -1,0 +1,27 @@
+Input a list of integers: 5 91 123 15526 231239
+Your list of integers is in ascending order.
+Do you want to continue (y/n): y
+
+Input a list of integers: 5 9 101 183 48
+Your list of integers is not in ascending order.
+Do you want to continue (y/n): y
+
+Input a list of integers: -12312 -23 0 1 230 416
+Your list of integers is in ascending order.
+Do you want to continue (y/n): y
+
+Input a list of integers: -5 -1231 -1 0 1231 5263
+Your list of integers is not in ascending order.
+Do you want to continue (y/n): y
+
+Input a list of integers: -29 0 123 156
+Your list of integers is in ascending order.
+Do you want to continue (y/n): y
+
+Input a list of integers: 20
+Your list of integers is in ascending order.
+Do you want to continue (y/n): y
+
+Input a list of integers:
+Your list of integers is in ascending order.
+Do you want to continue (y/n): n

@@ -1,0 +1,16 @@
+Enter first list to be compared: 10 14 10 13 25 10
+Enter second list to be compared: 10 14 10 13 25 10
+The two lists are equal.
+Would you like to compare two more lists (y/n)?: y
+
+Enter first list to be compared: 10 14 10 13 25 10
+Enter second list to be compared: 14 10 13 25
+The two lists are not equal.
+Would you like to compare two more lists (y/n)?: y
+
+Enter first list to be compared: 10 14 10 13 25 10
+Enter second list to be compared: 10 14 10 11 25 10
+The two lists are not equal.
+Would you like to compare two more lists (y/n)?: n
+
+Press any key to continue . . .

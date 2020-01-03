@@ -1,0 +1,12 @@
+﻿  a16_1.cpp
+c:\users\william\documents\visual studio 2015\projects\assignment16inheritancept2\assignment16inheritancept2\a16_1.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Compiling...
+  human.cpp
+  elf.cpp
+  demon.cpp
+  cyberdemon.cpp
+  creature.cpp
+  balrog.cpp
+  Generating Code...
+  Assignment16InheritancePt2.vcxproj -> C:\Users\William\Documents\Visual Studio 2015\Projects\Assignment16InheritancePt2\Debug\Assignment16InheritancePt2.exe

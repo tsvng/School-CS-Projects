@@ -1,0 +1,3 @@
+﻿  QueueClient.cpp
+c:\users\william\documents\visual studio 2015\projects\lab4queueinterface\lab4queueinterface\queueclient.cpp(20): warning C4101: 'footnoteChar': unreferenced local variable
+  Lab4QueueInterface.vcxproj -> C:\Users\William\Documents\Visual Studio 2015\Projects\Lab4QueueInterface\Debug\Lab4QueueInterface.exe

@@ -1,0 +1,39 @@
+Enter a number, and I will display its prime factors in descending order
+(enter 0 to exit program): 100
+The factors for 100: 5 5 2 2
+
+Enter a number, and I will display its prime factors in descending order
+(enter 0 to exit program): 17
+The factors for 17: 17
+
+Enter a number, and I will display its prime factors in descending order
+(enter 0 to exit program): 111
+The factors for 111: 37 3
+
+Enter a number, and I will display its prime factors in descending order
+(enter 0 to exit program): 3960
+The factors for 3960: 11 5 3 3 2 2 2
+
+Enter a number, and I will display its prime factors in descending order
+(enter 0 to exit program): 6788
+The factors for 6788: 1697 2 2
+
+Enter a number, and I will display its prime factors in descending order
+(enter 0 to exit program): 89988765
+The factors for 89988765: 2393 109 23 5 3
+
+Enter a number, and I will display its prime factors in descending order
+(enter 0 to exit program): 888
+The factors for 888: 37 3 2 2 2
+
+Enter a number, and I will display its prime factors in descending order
+(enter 0 to exit program): 141
+The factors for 141: 47 3
+
+Enter a number, and I will display its prime factors in descending order
+(enter 0 to exit program): 2016
+The factors for 2016: 7 3 3 2 2 2 2 2
+
+Enter a number, and I will display its prime factors in descending order
+(enter 0 to exit program): 0
+Goodbye!
